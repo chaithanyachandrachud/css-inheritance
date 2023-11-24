@@ -1,0 +1,15 @@
+/* Properties which are inherited by the child element*/
+h1 {
+    text-transform: uppercase;
+    color: brown;
+    text-align: center;
+  }
+  
+  /* Properties which are not inherited by the child element */
+  p {
+    position: relative;
+    left: 20px;
+    top: 20px;
+    padding: 10px;
+  }
+  
